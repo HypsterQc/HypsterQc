@@ -1,5 +1,9 @@
+<p align="right">
+  <a href="README_en.md">English Version</a>
+</p>
 
 # 👋 Bonjour ! Je m'appel Kevin,
+
 ### 💻 Développeur Junior | Passionné par l'IA, l'automatisation, et la technologie de la santé
 
 - 🧠 Actuellement, je termine mon bac en informatique et génie logiciel à l'UQAM, et je lis dans mes temps libres *Artificial Intelligence By Example* de Denis Rothman.
@@ -74,3 +78,8 @@
 </p>
 -->
 
+Jetez un coup d'œil à mes projets ! 👇
+
+<p align="right">
+  <a href="README_en.md">English Version</a>
+</p>
