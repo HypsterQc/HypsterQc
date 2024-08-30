@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README_en.md">English Version</a>
+  <a href="./README_en.md">English Version</a>
 </p>
 
 # 👋 Bonjour ! Je m'appel Kevin,
@@ -81,5 +81,5 @@
 Jetez un coup d'œil à mes projets ! 👇
 
 <p align="right">
-  <a href="README_en.md">English Version</a>
+  <a href="./README_en.md">English Version</a>
 </p>
