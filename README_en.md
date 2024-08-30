@@ -1,5 +1,5 @@
 <p align="right">
-  <a href="README.md">Version française</a>
+  <a href="./README.md">Version française</a>
 </p>
 
 # 👋 Hello! I'm Kevin,
@@ -81,5 +81,5 @@
 Take a look at my projects! 👇
 
 <p align="right">
-  <a href="README.md">Version française</a>
+  <a href="./README.md">Version française</a>
 </p>
