@@ -8,7 +8,7 @@
 
 - 🧠 Actuellement, je termine mon bac en informatique et génie logiciel à l'UQAM, et je lis dans mes temps libres *Artificial Intelligence By Example* de Denis Rothman.
 - 🚀 Je m'intéresse à la robotique, aux systèmes alimentés par l'IA, et au développement de solutions pour améliorer les soins de santé grâce à la technologie.
-- 📫 Pour me contacter : [kevdasilva@hotmail.com](mailto:kevdasilva@hotmail.com)
+- 📫 Pour me contacter : [Formulaire de contact](https://github.com/HypsterQc/Formulaire_contact).
 - 🌐 Découvrez mes projets sur [GitHub](https://github.com/HypsterQc) ou connectez-vous avec moi sur [LinkedIn](https://www.linkedin.com/in/kevin-da-silva-a2b6836/).
 
 <table>

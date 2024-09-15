@@ -8,7 +8,7 @@
 
 - 🧠 Currently, I am finishing my Bachelor's degree in Computer Science and Software Engineering at UQAM, and in my free time, I read *Artificial Intelligence By Example* by Denis Rothman.
 - 🚀 I'm interested in robotics, AI-powered systems, and developing solutions to improve healthcare through technology.
-- 📫 How to reach me: [kevdasilva@hotmail.com](mailto:kevdasilva@hotmail.com)
+- 📫 How to reach me: [Contact form](https://github.com/HypsterQc/Formulaire_contact).
 - 🌐 Check out my projects on [GitHub](https://github.com/HypsterQc) or connect with me on [LinkedIn](https://www.linkedin.com/in/kevin-da-silva-a2b6836/).
 
 <table>
